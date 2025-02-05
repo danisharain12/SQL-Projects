@@ -1,4 +1,3 @@
-# Stack Overflow Post Analysis
 # Stack Overflow Data Analysis Using SQL
 
 ##  Project Overview
